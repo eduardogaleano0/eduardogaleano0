@@ -1,4 +1,4 @@
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardogaleano0&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardogaleano0&theme=react)
 
  
 ### Main skills:
