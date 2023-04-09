@@ -1,4 +1,4 @@
-## Olá, me chamo Eduardo Galeano e estou migrando para área de tecnologia.
+## Olá, me chamo Eduardo Galeano e estou migrando de carreira!
 
 
  ### Principais linguagens:
