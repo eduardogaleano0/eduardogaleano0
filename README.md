@@ -1,5 +1,7 @@
 ## Olá, me chamo Eduardo Galeano e estou migrando de carreira!
 
+[![Eduardo Galeano github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardogaleano0&theme=react)](https://github.com/eduardogaleano0/github-readme-activity-graph)
+
 
  ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
