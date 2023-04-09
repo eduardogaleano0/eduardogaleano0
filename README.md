@@ -1,7 +1,5 @@
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardogaleano0&theme=react)
 
- 
-### Principais linguagens:
+ ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
 ### Ferramentas:
