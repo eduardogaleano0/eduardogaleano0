@@ -1,3 +1,5 @@
+## Olá, me chamo Eduardo Galeano e estou migrando para área de tecnologia.
+
 
  ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
