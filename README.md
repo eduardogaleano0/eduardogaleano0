@@ -1,4 +1,4 @@
-## Olá, me chamo Eduardo Galeano e estou migrando de carreira!
+## Olá, me chamo Eduardo Galeano, e atualmente estou migrando de carreira com foco na área de dados.
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
